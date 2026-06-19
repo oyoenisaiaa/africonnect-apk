@@ -4,7 +4,7 @@
 
 ##### Google Drive: ([link](https://drive.google.com/uc?export=download&id=1aVRFU3NQi-2U4Pf432neUuTkOwmnUNB5))
 #### Netlify: ([link](https://africonnect-app.netlify.app/))
-#### GitHub Release: (link)
+#### GitHub Release: ([link](https://github.com/oyoenisaiaa/africonnect-apk/releases/download/v1.0/africonnect-v1.0-hackathon.apk))
 
 Installation: Download the APK, enable "Install from unknown sources" on your Android device, and open the file.
 
