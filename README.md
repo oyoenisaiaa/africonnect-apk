@@ -10,13 +10,6 @@ Installation: Download the APK, enable "Install from unknown sources" on your An
 
 
 
-#### What's included:
-- Marketplace with AI-assisted supplier ranking
-- RFQ form with target price negotiation
-- Buyer and Supplier dashboards
-- 27 supplier listings across 7 categories
-- Verified supplier profiles
-
 #### Test Flow:
 
 1. Open application
