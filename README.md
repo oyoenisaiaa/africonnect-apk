@@ -2,11 +2,9 @@
 
 #### Download via any of the links below:
 
-##### Google Drive:
-(link)
+##### Google Drive: (link)
 
-#### Netlify:
-(link)
+#### Netlify: (link)
 
 #### GitHub Release:
 (link)
