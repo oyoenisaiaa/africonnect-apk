@@ -1,6 +1,6 @@
-## Africonnect APK and Demo Instructions
+## Africonnect — Android APK (v1.0)
 
-### Download APK:
+### Download via any of the links below:
 
 #### Google Drive:
 (link)
@@ -10,6 +10,27 @@
 
 #### GitHub Release:
 (link)
+
+
+
+
+- Google Drive: https://drive.google.com/uc?export=download&id=YOUR_ID
+- Direct download: https://africonnect-app.netlify.app
+- GitHub: https://github.com/YOUR_REPO/releases/tag/v1.0
+
+To install: Enable "Install from unknown sources" in Settings → Security, then open the downloaded APK.
+
+
+Final hackathon build.
+
+What's included:
+- Marketplace with AI-assisted supplier ranking
+- RFQ form with target price negotiation
+- Buyer and Supplier dashboards
+- 27 supplier listings across 7 categories
+- Verified supplier profiles
+
+Installation: Download the APK, enable "Install from unknown sources" on your Android device, and open the file.
 
 
 ### Test Flow:
