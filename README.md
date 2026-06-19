@@ -1,22 +1,18 @@
-# africonnect-apk
+## Africonnect APK and Demo Instructions
 
-##This repository is empty
+### Download APK:
 
-# Africonnect APK and Demo Instructions
-
-## Download APK:
-
-### Google Drive:
+#### Google Drive:
 (link)
 
-### Netlify:
+#### Netlify:
 (link)
 
-### GitHub Release:
+#### GitHub Release:
 (link)
 
 
-## Test Flow:
+### Test Flow:
 
 1. Open application
 2. Explore Marketplace
