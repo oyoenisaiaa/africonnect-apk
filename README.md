@@ -4,10 +4,9 @@
 
 ##### Google Drive: (link)
 
-#### Netlify: (link)
+#### Netlify: ([link](https://africonnect-app.netlify.app))
 
-#### GitHub Release:
-(link)
+#### GitHub Release: (link)
 
 
 - Google Drive: https://drive.google.com/uc?export=download&id=YOUR_ID
