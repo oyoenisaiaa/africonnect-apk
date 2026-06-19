@@ -9,6 +9,7 @@
 Installation: Download the APK, enable "Install from unknown sources" on your Android device, and open the file.
 
 
+
 #### What's included:
 - Marketplace with AI-assisted supplier ranking
 - RFQ form with target price negotiation
